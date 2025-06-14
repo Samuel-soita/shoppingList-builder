@@ -15,7 +15,7 @@ This project is a simple JavaScript program that demonstrates how to manage and 
 
 ## 📂 File
 
-- `shoppingList.js`: Main JavaScript file containing all the logic
+- `shoppinglist.js`: Main JavaScript file containing all the logic
 
 ## 🧠 What You’ll Learn
 
